@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Projetos\serial_ports_jssc\android\app\.cxx\Debug\3t72461j\armeabi-v7a'
+ninja: no work to do.

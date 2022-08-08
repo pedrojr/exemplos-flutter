@@ -1,0 +1,3 @@
+C:/Projetos/serial_ports_jssc/android/app/.cxx/Debug/3t72461j/arm64-v8a/CMakeFiles/jssc-lib.dir
+C:/Projetos/serial_ports_jssc/android/app/.cxx/Debug/3t72461j/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Projetos/serial_ports_jssc/android/app/.cxx/Debug/3t72461j/arm64-v8a/CMakeFiles/rebuild_cache.dir

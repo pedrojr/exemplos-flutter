@@ -1,0 +1,7 @@
+Executable : C:\Users\pedro\AppData\Local\Android\sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Projetos\serial_ports_jssc\android\app\.cxx\Debug\3t72461j\x86
+jssc-lib
+jvmArgs : 
+
