@@ -32,6 +32,8 @@ doc/api/
 .buildlog/
 .history
 .svn/
+.cxx/
+_/
 
 # IntelliJ related
 *.iml
